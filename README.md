@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tharun2331
+- 👋 Hi, I’m Tharun2331
 - 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on machine learning and deep learning projects
