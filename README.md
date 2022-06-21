@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharun2331
-- 👀 I’m interested in machine learning and deep learning
+- 👀 I’m interested in web development, machine learning and deep learning
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on machine learning and deep learning projects
 - 📫 How to reach me tharunsd23@gmail.com
