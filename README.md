@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
 <h3 align="center">A passionate web and AI developer from Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun2331" alt="tharun2331" /></a> </p>
-
 - 🌱 I’m currently learning **MERN, Gen AI and Pytorch**
 
 - 👯 I’m looking to collaborate on **Web Development, Designing and AI/ML Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Tharun2331?tab=repositories](https://github.com/Tharun2331?tab=repositories)
 
 - 💬 Ask me about **Web development, Machine learning and Deep learning**
 
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun2331&show_icons=true&locale=en&layout=compact" alt="tharun2331" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun2331&show_icons=true&locale=en" alt="tharun2331" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun2331&" alt="tharun2331" /></p>
