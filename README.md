@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun2331" alt="tharun2331" /></a> </p>
 
-- 🔭 I’m currently learning on **Next JS and Data Structures and Algorithms**
-
 - 🌱 I’m currently learning **MERN, Gen AI and Pytorch**
 
 - 👯 I’m looking to collaborate on **Web Development, Designing and AI/ML Projects**
