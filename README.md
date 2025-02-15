@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tharunsd23@gmail.com**
 
-- 📄 Know about my experiences [https://cyan-ivie-83.tiiny.site/](https://cyan-ivie-83.tiiny.site/)
+- 📄 Know about my experiences [https://cyan-ivie-83.tiiny.site/]([https://cyan-ivie-83.tiiny.site/](https://cyan-ivie-83.tiiny.site))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
