@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **tharunsd23@gmail.com**
 
-- 📄 Know about my experiences [https://tharun-sekar.tiiny.site](https://tharun-sekar.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
