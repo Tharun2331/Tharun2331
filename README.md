@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">A passionate web and AI developer from Canada</h3>
+<h3 align="center">A passionate web developer from Canada</h3>
 
-- 🌱 I’m currently learning **MERN, Gen AI Technologies**
+- 🌱 I’m currently learning **MERN, AWS Cloud, Gen AI**
 
 - 👯 I’m looking to collaborate on **Web Development, Designing and AI/ML Projects**
 
-- 💬 Ask me about **Web development, Machine learning and Deep learning**
+- 💬 Ask me about **Web development, Cloud and AI**
 
-- 📫 How to reach me **tharunsd23@gmail.com**
+- 📫 How to reach me **tharunsekar194@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
